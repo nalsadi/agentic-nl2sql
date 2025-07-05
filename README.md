@@ -48,7 +48,7 @@ agentic-nl2sql/
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd agentic
+cd agentic-nl2sql
 ```
 
 2. **Install dependencies**
