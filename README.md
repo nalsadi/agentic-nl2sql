@@ -2,6 +2,10 @@
 
 An agentic NL2SQL workflow powered with Azure OpenAI (see branches for Ollama integration). This agent can answer natural language questions by executing SQL queries against Spider benchmark databases. 
 
+### Download Spider 
+
+https://drive.google.com/file/d/1403EGqzIDoHMdQF4c9Bkyl7dZLZ5Wt6J/view
+
 ## TODO
 
 - [ ] Migrate to LangChain
